@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我笔写我心</title>
+  <title>我笔写我心(My pan writes my heart)</title>
   
-  <subtitle>兔子家的萝卜头</subtitle>
+  <subtitle>兔子家的萝卜头(ArronZL)</subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
