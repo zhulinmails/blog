@@ -3,22 +3,20 @@
 <head>
   <meta charset="utf-8">
   
-  <title>搭建github博客中碰到的问题 | 我笔写我心</title>
+  <title>我笔写我心</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="总觉的自己是一个很矫情的人。书没读多少，东西也没读多少，但是对于工具的要求确实很高。就想写博客，在国内的时候，用过和讯、163、搜狐、博客园等的博客。但是嫌这又嫌那，真是丫鬟的命，小姐的心，没得说。出了国门，发现这些博客网站访问起来不是很顺溜，又想到换别的。想起大牛们，记事本都可以创造传世佳作出来，哪有那么多要求啊。 一直都在想，为什么大家会考虑写博客呢？特别是独立博客，没多少观众，也许就是一片独">
-<meta name="keywords" content="github; 博客; 问题">
-<meta property="og:type" content="article">
-<meta property="og:title" content="搭建github博客中碰到的问题">
-<meta property="og:url" content="http://zhulinmails.github.io/2017/10/04/搭建github博客中碰到的问题/index.html">
+  <meta name="description" content="天道酬勤，厚德载物，自强不息，求真务实，动脑动手，孜孜以求">
+<meta property="og:type" content="website">
+<meta property="og:title" content="我笔写我心">
+<meta property="og:url" content="http://zhulinmails.github.io/index.html">
 <meta property="og:site_name" content="我笔写我心">
-<meta property="og:description" content="总觉的自己是一个很矫情的人。书没读多少，东西也没读多少，但是对于工具的要求确实很高。就想写博客，在国内的时候，用过和讯、163、搜狐、博客园等的博客。但是嫌这又嫌那，真是丫鬟的命，小姐的心，没得说。出了国门，发现这些博客网站访问起来不是很顺溜，又想到换别的。想起大牛们，记事本都可以创造传世佳作出来，哪有那么多要求啊。 一直都在想，为什么大家会考虑写博客呢？特别是独立博客，没多少观众，也许就是一片独">
+<meta property="og:description" content="天道酬勤，厚德载物，自强不息，求真务实，动脑动手，孜孜以求">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2017-10-04T12:53:45.801Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="搭建github博客中碰到的问题">
-<meta name="twitter:description" content="总觉的自己是一个很矫情的人。书没读多少，东西也没读多少，但是对于工具的要求确实很高。就想写博客，在国内的时候，用过和讯、163、搜狐、博客园等的博客。但是嫌这又嫌那，真是丫鬟的命，小姐的心，没得说。出了国门，发现这些博客网站访问起来不是很顺溜，又想到换别的。想起大牛们，记事本都可以创造传世佳作出来，哪有那么多要求啊。 一直都在想，为什么大家会考虑写博客呢？特别是独立博客，没多少观众，也许就是一片独">
+<meta name="twitter:title" content="我笔写我心">
+<meta name="twitter:description" content="天道酬勤，厚德载物，自强不息，求真务实，动脑动手，孜孜以求">
   
-    <link rel="alternate" href="/blog/atom.xml" title="我笔写我心" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="我笔写我心" type="application/atom+xml">
   
   
     <link rel="icon" href="/favicon.png">
@@ -58,7 +56,7 @@
       </nav>
       <nav id="sub-nav">
         
-          <a id="nav-rss-link" class="nav-icon" href="/blog/atom.xml" title="RSS Feed"></a>
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
         
         <a id="nav-search-btn" class="nav-icon" title="搜索"></a>
       </nav>
@@ -69,7 +67,9 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main"><article id="post-搭建github博客中碰到的问题" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main">
+  
+    <article id="post-搭建github博客中碰到的问题" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/blog/2017/10/04/搭建github博客中碰到的问题/" class="article-date">
   <time datetime="2017-10-04T12:51:40.000Z" itemprop="datePublished">2017-10-04</time>
@@ -82,8 +82,8 @@
       <header class="article-header">
         
   
-    <h1 class="article-title" itemprop="name">
-      搭建github博客中碰到的问题
+    <h1 itemprop="name">
+      <a class="article-title" href="/blog/2017/10/04/搭建github博客中碰到的问题/">搭建github博客中碰到的问题</a>
     </h1>
   
 
@@ -114,19 +114,92 @@
     </footer>
   </div>
   
-    
-<nav id="article-nav">
-  
-  
-    <a href="/blog/2017/10/04/zhulin/" id="article-nav-older" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Older</strong>
-      <div class="article-nav-title">zhulin</div>
-    </a>
-  
-</nav>
+</article>
+
 
   
+    <article id="post-zhulin" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/blog/2017/10/04/zhulin/" class="article-date">
+  <time datetime="2017-10-04T11:31:54.000Z" itemprop="datePublished">2017-10-04</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/blog/2017/10/04/zhulin/">zhulin</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h1 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h1><p>I am lin, I want to develop myself.</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://zhulinmails.github.io/2017/10/04/zhulin/" data-id="cj8d2h67g0001zwcvaltvkovn" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
 </article>
+
+
+  
+    <article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/blog/2017/10/03/hello-world/" class="article-date">
+  <time datetime="2017-10-03T14:16:08.323Z" itemprop="datePublished">2017-10-03</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/blog/2017/10/03/hello-world/">Hello World</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://zhulinmails.github.io/2017/10/03/hello-world/" data-id="cj8d2h6720000zwcvbk9tep5m" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+  
 
 </section>
         
